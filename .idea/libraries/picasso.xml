@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="picasso">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ParseStarterProject/libs/picasso.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

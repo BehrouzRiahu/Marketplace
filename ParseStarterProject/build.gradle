@@ -31,10 +31,16 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:appcompat-v7:22.2.0'
+    compile 'com.oguzdev:CircularFloatingActionMenu:1.0.2'
+    compile 'com.android.support:support-v4:22.0.0'
+    compile 'com.android.support:appcompat-v7:22.0.0'
+    compile 'com.google.android.gms:play-services:+'
+    compile files('libs/android-support-v7-recyclerview.jar')
+    compile files('libs/bolts-android.jar')
+    compile files('libs/Parse.jar')
+    compile files('libs/picasso.jar')
+    compile files('libs/superrecyclerview-1.0.0-javadoc.jar')
 
-    compile 'com.parse.bolts:bolts-tasks:1.3.0'
-    compile 'com.parse:parse-android:1.11.0'
 }
 
 /* Uncomment if you enable ProGuard and you want to automatically upload symbols on build.
