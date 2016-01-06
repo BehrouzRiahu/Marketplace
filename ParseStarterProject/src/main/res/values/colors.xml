@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="row_black">#525455</color>
+    <color name="row_blue">#36abdc</color>
+    <color name="row_grey">#a6a8a8</color>
+</resources>
