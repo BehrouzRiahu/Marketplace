@@ -34,6 +34,11 @@
     <color name="background_floating_material_light">#ffeeeeee</color>
     <color name="background_material_dark">#ff303030</color>
     <color name="background_material_light">#ffeeeeee</color>
+    <!-- From: file:/Users/mazinalmaskari/Desktop/Parse-Starter-Project-1/ParseStarterProject/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="blue">#4257cc</color>
+    <!-- From: file:/Users/mazinalmaskari/Desktop/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <eat-comment/>
     <color name="bright_foreground_disabled_material_dark">#80ffffff</color>
     <color name="bright_foreground_disabled_material_light">#80000000</color>
     <color name="bright_foreground_inverse_material_dark">@color/bright_foreground_material_light</color>
@@ -67,6 +72,11 @@
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
     <color name="dim_foreground_material_light">#ff323232</color>
+    <!-- From: file:/Users/mazinalmaskari/Desktop/Parse-Starter-Project-1/ParseStarterProject/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="gray_bg">#eeeeee</color>
+    <!-- From: file:/Users/mazinalmaskari/Desktop/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <eat-comment/>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
@@ -88,6 +98,13 @@
     <color name="primary_text_disabled_material_light">#39000000</color>
     <color name="ripple_material_dark">#4dffffff</color>
     <color name="ripple_material_light">#1f000000</color>
+    <!-- From: file:/Users/mazinalmaskari/Desktop/Parse-Starter-Project-1/ParseStarterProject/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="row_black">#525455</color>
+    <color name="row_blue">#36abdc</color>
+    <color name="row_grey">#a6a8a8</color>
+    <!-- From: file:/Users/mazinalmaskari/Desktop/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values/values.xml -->
+    <eat-comment/>
     <color name="secondary_text_default_material_dark">#b3ffffff</color>
     <color name="secondary_text_default_material_light">#8a000000</color>
     <color name="secondary_text_disabled_material_dark">#36ffffff</color>
@@ -363,6 +380,10 @@
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
+    <!-- From: file:/Users/mazinalmaskari/Desktop/Parse-Starter-Project-1/ParseStarterProject/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="title_section1">Browse</string>
+    <string name="title_section2">Search</string>
     <!-- From: file:/Users/mazinalmaskari/Desktop/Parse-Starter-Project-1/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.3.0/res/values/wallet_strings.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>

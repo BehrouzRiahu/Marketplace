@@ -13,6 +13,9 @@
 
     <string name="app_name">Parse Starter Project</string>
 
+    <string name="title_section1">Browse</string>
+    <string name="title_section2">Search</string>
+
     <string name="hello_world">Hello World!</string>
     <string name="action_settings">Settings</string>
 </resources>
