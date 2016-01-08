@@ -2146,7 +2146,7 @@ containing a value of this type.
         public static final int beginning=0x7f0d0015;
         public static final int book_now=0x7f0d0039;
         public static final int btnDelete=0x7f0d0088;
-        public static final int btnFine=0x7f0d00ba;
+        public static final int btnFind=0x7f0d00ba;
         public static final int btn_post=0x7f0d00b7;
         public static final int buttonPanel=0x7f0d005d;
         public static final int buttons=0x7f0d0095;

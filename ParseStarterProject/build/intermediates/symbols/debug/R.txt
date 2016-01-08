@@ -651,7 +651,7 @@ int id auto 0x7f0d0025
 int id beginning 0x7f0d0015
 int id book_now 0x7f0d0039
 int id btnDelete 0x7f0d0088
-int id btnFine 0x7f0d00ba
+int id btnFind 0x7f0d00ba
 int id btn_post 0x7f0d00b7
 int id buttonPanel 0x7f0d005d
 int id buttons 0x7f0d0095

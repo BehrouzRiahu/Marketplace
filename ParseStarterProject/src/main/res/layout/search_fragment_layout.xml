@@ -58,7 +58,7 @@
         android:paddingRight="20dp"/>
 
     <Button
-        android:id="@+id/btnFine"
+        android:id="@+id/btnFind"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"

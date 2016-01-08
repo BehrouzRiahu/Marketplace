@@ -66,6 +66,10 @@ public class ItemsModel implements Parcelable{
         this.desc = desc;
     }
 
+    public ItemsModel(){
+
+    }
+
     protected ItemsModel(Parcel in) {
 
         String[] array = new String[7];
