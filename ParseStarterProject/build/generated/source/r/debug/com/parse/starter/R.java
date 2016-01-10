@@ -2103,7 +2103,7 @@ containing a value of this type.
         public static final int mr_ic_play_light=0x7f0200a0;
         public static final int mr_ic_settings_dark=0x7f0200a1;
         public static final int mr_ic_settings_light=0x7f0200a2;
-        public static final int notification_template_icon_bg=0x7f0200ac;
+        public static final int notification_template_icon_bg=0x7f0200ad;
         public static final int plus_icon=0x7f0200a3;
         public static final int powered_by_google_dark=0x7f0200a4;
         public static final int powered_by_google_light=0x7f0200a5;
@@ -2111,8 +2111,9 @@ containing a value of this type.
         public static final int red_btn_regular=0x7f0200a7;
         public static final int search_bg=0x7f0200a8;
         public static final int selector_button=0x7f0200a9;
-        public static final int selector_button_delete=0x7f0200aa;
-        public static final int share_icon=0x7f0200ab;
+        public static final int selector_button_action_blue=0x7f0200aa;
+        public static final int selector_button_delete=0x7f0200ab;
+        public static final int share_icon=0x7f0200ac;
     }
     public static final class id {
         public static final int action0=0x7f0d0098;
@@ -2130,9 +2131,12 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0d0064;
         public static final int action_mode_bar_stub=0x7f0d0063;
         public static final int action_mode_close_button=0x7f0d004c;
-        public static final int action_settings=0x7f0d00bb;
+        public static final int action_settings=0x7f0d00be;
         public static final int activity_chooser_view_content=0x7f0d004d;
+        public static final int adDate=0x7f0d00bb;
         public static final int adPic=0x7f0d00b8;
+        public static final int adPrice=0x7f0d00ba;
+        public static final int adTitle=0x7f0d00b9;
         public static final int adjust_height=0x7f0d0018;
         public static final int adjust_width=0x7f0d0019;
         public static final int alertTitle=0x7f0d0057;
@@ -2146,7 +2150,7 @@ containing a value of this type.
         public static final int beginning=0x7f0d0015;
         public static final int book_now=0x7f0d0039;
         public static final int btnDelete=0x7f0d0088;
-        public static final int btnFind=0x7f0d00ba;
+        public static final int btnFind=0x7f0d00bd;
         public static final int btn_post=0x7f0d00b7;
         public static final int buttonPanel=0x7f0d005d;
         public static final int buttons=0x7f0d0095;
@@ -2180,7 +2184,7 @@ containing a value of this type.
         public static final int et_password=0x7f0d00b4;
         public static final int et_phone=0x7f0d00b2;
         public static final int et_price=0x7f0d00aa;
-        public static final int et_search=0x7f0d00b9;
+        public static final int et_search=0x7f0d00bc;
         public static final int et_title=0x7f0d00a8;
         public static final int expand_activities_button=0x7f0d004e;
         public static final int expanded_menu=0x7f0d005e;

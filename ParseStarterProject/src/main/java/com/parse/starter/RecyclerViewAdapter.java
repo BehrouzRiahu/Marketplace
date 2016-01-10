@@ -57,6 +57,10 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         return itemsArray.size();
     }
 
+    public void setClickListener(ClickListener clickListener) {
+        this.clickListener = clickListener;
+    }
+
     public class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener{
 
         public TextView Title, Price, Date;

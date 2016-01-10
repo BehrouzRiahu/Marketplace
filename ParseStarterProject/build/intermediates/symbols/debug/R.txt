@@ -610,7 +610,7 @@ int drawable mr_ic_play_dark 0x7f02009f
 int drawable mr_ic_play_light 0x7f0200a0
 int drawable mr_ic_settings_dark 0x7f0200a1
 int drawable mr_ic_settings_light 0x7f0200a2
-int drawable notification_template_icon_bg 0x7f0200ac
+int drawable notification_template_icon_bg 0x7f0200ad
 int drawable plus_icon 0x7f0200a3
 int drawable powered_by_google_dark 0x7f0200a4
 int drawable powered_by_google_light 0x7f0200a5
@@ -618,8 +618,9 @@ int drawable red_btn_pressed 0x7f0200a6
 int drawable red_btn_regular 0x7f0200a7
 int drawable search_bg 0x7f0200a8
 int drawable selector_button 0x7f0200a9
-int drawable selector_button_delete 0x7f0200aa
-int drawable share_icon 0x7f0200ab
+int drawable selector_button_action_blue 0x7f0200aa
+int drawable selector_button_delete 0x7f0200ab
+int drawable share_icon 0x7f0200ac
 int id action0 0x7f0d0098
 int id action_bar 0x7f0d0067
 int id action_bar_activity_content 0x7f0d0000
@@ -635,9 +636,12 @@ int id action_menu_presenter 0x7f0d0003
 int id action_mode_bar 0x7f0d0064
 int id action_mode_bar_stub 0x7f0d0063
 int id action_mode_close_button 0x7f0d004c
-int id action_settings 0x7f0d00bb
+int id action_settings 0x7f0d00be
 int id activity_chooser_view_content 0x7f0d004d
+int id adDate 0x7f0d00bb
 int id adPic 0x7f0d00b8
+int id adPrice 0x7f0d00ba
+int id adTitle 0x7f0d00b9
 int id adjust_height 0x7f0d0018
 int id adjust_width 0x7f0d0019
 int id alertTitle 0x7f0d0057
@@ -651,7 +655,7 @@ int id auto 0x7f0d0025
 int id beginning 0x7f0d0015
 int id book_now 0x7f0d0039
 int id btnDelete 0x7f0d0088
-int id btnFind 0x7f0d00ba
+int id btnFind 0x7f0d00bd
 int id btn_post 0x7f0d00b7
 int id buttonPanel 0x7f0d005d
 int id buttons 0x7f0d0095
@@ -685,7 +689,7 @@ int id et_desc 0x7f0d00b6
 int id et_password 0x7f0d00b4
 int id et_phone 0x7f0d00b2
 int id et_price 0x7f0d00aa
-int id et_search 0x7f0d00b9
+int id et_search 0x7f0d00bc
 int id et_title 0x7f0d00a8
 int id expand_activities_button 0x7f0d004e
 int id expanded_menu 0x7f0d005e
