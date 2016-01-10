@@ -1,31 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="@drawable/list_bg"
     android:layout_marginLeft="10dp"
     android:layout_marginRight="10dp"
-    android:layout_marginBottom="5dp"
     android:layout_marginTop="5dp"
-    android:background="@drawable/list_bg"
-    >
+    android:layout_marginBottom="5dp"
+    android:orientation="horizontal">
 
     <com.parse.ParseImageView
-        android:id= "@+id/adPic"
+        android:id="@+id/adPic"
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_margin="5dp"
         android:scaleType="fitXY"
-        android:src="@drawable/ic_launcher"
-    />
+        android:src="@drawable/ic_launcher" />
 
     <RelativeLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_toRightOf="@+id/adPic"
-        android:layout_gravity="center_vertical"
-        >
+        android:layout_gravity="center_vertical">
 
+        <TextView
+            android:id="@+id/adTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_toLeftOf="@+id/adPrice"
+            android:layout_marginLeft="10dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="5dp"
+            android:alpha="0.87"
+            android:maxLines="2"
+            android:text=""
+            android:textSize="14dp"
+            android:textColor="@color/row_black"/>
 
+        <TextView
+            android:id="@+id/adPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp"
+            android:paddingBottom="5dp"
+            android:layout_marginRight="5dp"
+            android:alpha="0.87"
+            android:singleLine="true"
+            android:text=""
+            android:textSize="15dp"
+            android:textColor="@color/row_blue"/>
+
+        <TextView
+            android:id="@+id/adDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/adTitle"
+            android:layout_alignLeft="@+id/adTitle"
+            android:padding="5dp"
+            android:alpha="0.87"
+            android:singleLine="true"
+            android:text=""
+            android:textSize="10dp"
+            android:textColor="@color/row_grey"/>
 
     </RelativeLayout>
 
