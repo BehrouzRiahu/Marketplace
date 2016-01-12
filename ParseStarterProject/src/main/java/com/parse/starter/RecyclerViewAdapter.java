@@ -19,7 +19,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
     ArrayList<ItemsModel> itemsArray = null;
     Context context;
 
-    RecyclerViewAdapter(ArrayList<ItemsModel> itemsArray, Context context){
+    public RecyclerViewAdapter(ArrayList<ItemsModel> itemsArray, Context context){
         this.itemsArray = itemsArray;
         this.context = context;
     }

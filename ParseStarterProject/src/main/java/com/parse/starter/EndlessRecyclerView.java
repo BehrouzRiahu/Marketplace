@@ -16,7 +16,7 @@ public abstract class EndlessRecyclerView extends RecyclerView.OnScrollListener{
 
     private LinearLayoutManager mlinearLayoutManager;
 
-    EndlessRecyclerView(LinearLayoutManager mlinearLayoutManager){
+    public EndlessRecyclerView(LinearLayoutManager mlinearLayoutManager){
         this.mlinearLayoutManager = mlinearLayoutManager;
     }
 
